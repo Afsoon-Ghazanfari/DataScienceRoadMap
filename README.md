@@ -1,5 +1,4 @@
-Classification Projects:
-
+CLASSIFICATION PROJECTS:
 
 Wine Quality Prediction:
 
