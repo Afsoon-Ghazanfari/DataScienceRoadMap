@@ -21,3 +21,8 @@ based on the symptoms that he/she possesses.
 The data set is from Kaggle.
 I am predicting the disease for the input symptoms by combining the predictions of three models.
 This makes our overall prediction more robust and accurate.
+
+RECOMMENDATION PROJECTS:
+
+4. Movie Recommendation:
+
