@@ -1,4 +1,4 @@
-CLASSIFICATION PROJECTS:
+#CLASSIFICATION PROJECTS:
 
 1. Wine Quality Prediction:
 
@@ -22,7 +22,7 @@ The data set is from Kaggle.
 I am predicting the disease for the input symptoms by combining the predictions of three models.
 This makes our overall prediction more robust and accurate.
 
-RECOMMENDATION PROJECTS:
+*RECOMMENDATION PROJECTS:
 
 4. Movie Recommendation:
 
