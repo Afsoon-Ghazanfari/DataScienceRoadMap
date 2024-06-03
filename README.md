@@ -19,3 +19,7 @@ In This project, I created tailored content recommendations that improve user ex
 5. Detecting Spam Emails by Tensorflow:
    
 In This project, I build a TensorFlow-based Spam detector; and classify the texts as Spam or Ham. I used the email dataset available on the Internet for free. Since Spam detection is a case of a Text Classification problem, I performed EDA on the dataset and built a Sequential model with Embedding, LSTM, and Dense layers.
+
+6. SMS Spam Detecting by Tensorflow:
+
+In this project, I developed various deep learning models using Tensorflow for SMS spam detection and also analyzed the performance metrics of different models including Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN, LSTM).
