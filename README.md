@@ -22,4 +22,4 @@ In This project, I build a TensorFlow-based Spam detector; and classify the text
 
 6. SMS Spam Detecting by Tensorflow:
 
-In this project, I developed various deep learning models using Tensorflow for SMS spam detection and also analyzed the performance metrics of different models including Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN, LSTM).
+In this project, I developed various deep learning models using Tensorflow for SMS spam detection and also analyzed the performance metrics of different models including Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN, LSTM, Bidirectional LSTM), and Universal Sentence Encoder (USE).
